@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-hooks-state"]=this["webpackJsonpreact-hooks-state"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(1),r=n(0),o=n(3),s=n.n(o),a=n(4);var u=function(){var t=Object(r.useState)(0),e=Object(a.a)(t,2),n=e[0],o=e[1];return Object(c.jsxs)("button",{onClick:function(){o((function(t){return t+1})),o((function(t){return t+1}))},children:["I have been clicked ",n," times"]})};s.a.render(Object(c.jsx)(u,{}),document.getElementById("root"))}},[[10,1,2]]]);
+//# sourceMappingURL=main.6f5f5fd5.chunk.js.map
